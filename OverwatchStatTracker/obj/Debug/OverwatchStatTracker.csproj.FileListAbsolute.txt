@@ -1,0 +1,14 @@
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\bin\Debug\OverwatchStatTracker.exe.config
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\bin\Debug\OverwatchStatTracker.exe
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\bin\Debug\OverwatchStatTracker.pdb
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.csprojAssemblyReference.cache
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.Stats.resources
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.Properties.Resources.resources
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.csproj.GenerateResource.cache
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.exe
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.pdb
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.AddPlayer.resources
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.AddTeam.resources
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.EditPlayer.resources
+C:\Users\K\source\repos\OverwatchStatTracker\OverwatchStatTracker\obj\Debug\OverwatchStatTracker.EditTeam.resources
